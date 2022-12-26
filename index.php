@@ -10,13 +10,13 @@
 <header>
  <nav>
   <ul>
-   <li><a href="https://FresherProfiles.com">Fresherprofiles</a></li>
+   <li><a href="https://FresherProfiles.com">ProfileForStudent</a></li>
    <li><a href="https://fresherprofiles.com/web/student">Profile Builder</a></li>
   </ul>
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Santose Naval
+<div id="center-set"> 
 <div id="signup">
 <div id="signup-st">
 <div align="center">
